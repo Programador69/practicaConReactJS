@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dded93b.css",
+    "main.js": "/static/js/main.4bde4bbc.js",
+    "static/js/787.5610b868.chunk.js": "/static/js/787.5610b868.chunk.js",
+    "static/media/error404.webp": "/static/media/error404.0872db5960a1490ce946.webp",
+    "static/media/imgH.jpg": "/static/media/imgH.1601aeaae5b96f94f021.jpg",
+    "static/media/fotoInicio.jpg": "/static/media/fotoInicio.b93ec6246fa8feff6e15.jpg",
+    "static/media/imgH3.jpg": "/static/media/imgH3.54dc9087ccb1779eabfe.jpg",
+    "static/media/imgH4.jpg": "/static/media/imgH4.8ac64d362dd8b2f6e076.jpg",
+    "static/media/imagenHistoria.webp": "/static/media/imagenHistoria.08d02c10b76b32748ade.webp",
+    "static/media/convenios.webp": "/static/media/convenios.51203c8ffbdbd9c434f2.webp",
+    "static/media/ine.png": "/static/media/ine.18edc4996df96689d646.png",
+    "static/media/imgH2.jpg": "/static/media/imgH2.82acb4f74808a278cbdc.jpg",
+    "static/media/desceunto20.png": "/static/media/desceunto20.4dd29d867526782f06da.png",
+    "static/media/socios.webp": "/static/media/socios.f07078f36de376f04c1e.webp",
+    "static/media/members.png": "/static/media/members.f87f7682b7c2b99d6c93.png",
+    "index.html": "/index.html",
+    "main.2dded93b.css.map": "/static/css/main.2dded93b.css.map",
+    "main.4bde4bbc.js.map": "/static/js/main.4bde4bbc.js.map",
+    "787.5610b868.chunk.js.map": "/static/js/787.5610b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dded93b.css",
+    "static/js/main.4bde4bbc.js"
+  ]
+}
